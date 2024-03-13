@@ -1,4 +1,16 @@
-.titulo{
- font-size: 20%;
+*{
+    margin: 0%;
+    padding: 0%;
 }
+.cabeçalho{
+    background-color: rgb(100, 100, 255);
+    color: aliceblue;
+}
+.titulo{
+    font-size: 60%;
+    text-align: center;
+   }
+   .subtitulo{
+    text-align: center;
+   }
 
